@@ -1,0 +1,5 @@
+pyfiglet
+pillow
+opencv-python
+numpy
+colorama
